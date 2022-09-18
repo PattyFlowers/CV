@@ -1,6 +1,6 @@
 ## Patricia Garcia Nieto 
 
-Curious and creative human, avid learner, veterinary surgeon and software developer on the making. 
+Curious and creative human, avid learner, veterinary surgeon, and software developer on the making. 
 
 I considered moving countries one of the most challenging things I had ever done, until I decided to  switch careers into IT and found myself starting all over again once more, but life would be so boring without a good challenge, wouldn’t it?
 
@@ -13,20 +13,26 @@ I have found in tech what I always looked for: lots of situations that can be de
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **catfromspace.com**         | Personal blog about my career change, tech, vetting and wellbeing.| Jekyll, Markdown, HTML |
+| [**catfromspace.com**](https://catfromspace.com)         | Personal blog about my career change, tech, vetting, and wellbeing.| Jekyll, Markdown, HTML |
 
 
-## Work Experience
+## Work experience
+
+**Steamship circus** (August 2022 - current)
+
+_Circus artist_
+* Work as a performer doing walkabouts.
+* Currently training to become a fire-performer (dragon staff and fire fans).
 
 **Vets4Pets Poole** (May 2021 – June 2022)
 
-_Veterinary Surgeon_
+_Veterinary surgeon_
 * Consultations, diagnostics and soft tissue surgery. Lead ultrasonographer.
 * Working in this practice helped me improve my problem-solving abilities when dealing with complicated clinical cases, as well as coming up with creative solutions by thinking outside the box. As an example, unlike the rest of my colleagues, I was very keen in using local-anaesthetics for simple surgeries when a general anaesthesia imposed a risk to the patient, like in a 2 week old puppy that had a congenital defect.
 
 **Natterjacks vet** (February 2019 – March 2021)
 
-_Veterinary Surgeon_
+_Veterinary surgeon_
 * Consultations, diagnostics and soft tissue surgery. Lead ultrasonographer.
 * This job helped me improve my time-management even when we were under time pressure or needing to multitask.
 * I also found a love in working within a large team, in where being a colleague was a synonym of a friend and where we would all care for each other and help each other thrive.
@@ -38,17 +44,11 @@ _Sole charge Veterinary surgeon_
 * This practice and its owner gave me my first job opportunity and taught me what being responsible of a business meant, as well as improving my self-confidence when working unsupervised, having to trust my own knowledge and abilities.
 * We did a lot of charity work aided by residents of the area for the stray cat colonies. I found the possibility of helping the community and animals in need extremely rewarding and it allowed me to meet some wonderful people. 
 
-**Lockwood Animal Hospital, CV Antartida, CV los Juncos, Briar hourse vets** (Between May 2017 and September 2018)
+**Lockwood Animal Hospital, CV Antartida, CV los Juncos, Briar hourse vets** (May 2017 - September 2018)
 
 _Locum Veterinary surgeon_
 * Consultations, diagnostics and soft tissue surgery in different practices both across Spain and the UK.
 * I enjoyed exploring a variety of ways to work and it helped me to learn how to thrive independently of the circumstances around me.
-
-**Steamship circus** (August 2022)
-
-_Circus artist_
-* Odd work as a performer doing walkabouts.
-* Currently training to become a fire-performer.
 
 **Serendipia – Rock band** (October 2015 – 2018)
 
@@ -62,10 +62,10 @@ _Lead singer_
 ### Team worker and good communicator
 I love meeting new people, getting to know their stories and creating meaningful relationships. I also enjoy creating a safe and comfortable space for the people around me, where communication and emotional intelligence are the key to achieving an environment where everyone feels respected, valued and appreciated. I am also happy to act as a mediator if the situation arises and enjoy mentoring or leading where appropriate. 
 
-Although I work very well independently and I am capable to stay focused and motivated, I prefer to do so within a team, where people with different ideas and perspectives will come to a much more balanced solution to a problem. 
+Although I work very well independently and I am capable to stay focused and motivated, I prefer to do so within a team, where people with different ideas and perspectives are able to come to a much more balanced solution to a problem. 
 
 ### Problem-solving and high attention to detail
-If you think about it, being a veterinary surgeon is not that different from being a software developer, which means I have over six years of experience in problem solving behind my back. In both cases, you are presented with a list of problems you have to try find a solution for and, often, coming up with this solution requires a lot of thinking, studying, asking other people, looking for small details, thinking outside the box and practising trial and error. You want to focus on solving each individual problem but keeping in mind the bigger picture.
+If you think about it, being a veterinary surgeon is not that different from being a software developer, which means I have over six years of experience in problem solving under my belt. In both cases, you are presented with a list of problems you have to try find a solution for and, often, coming up with this solution requires a lot of thinking, studying, asking other people, looking for small details, thinking outside the box and practising trial and error. You want to focus on solving each individual problem but keeping in mind the bigger picture.
 
 For example, once I got presented with an elderly cat that, according to the owner, was eating better than ever and seemed generally well in himself, although he wasn’t putting any weight on despite emptying two bowls of food a day. I suspected something wasn’t quite right and obtained permission to take bloods, which revealed an onset of a hyperactive thyroid. From there, we developed a plan of action to get this cat back in track before any more concerning health issues developed due to this.
 
@@ -87,22 +87,24 @@ During my working years I have encountered all sorts of customers. Some were lov
 - Using daily pairing sessions in order to problem solve efficiently, requiring teamwork and good communication.
 - Until this moment, we have covered the basics of Ruby and TDD (RSpec).
 
+#### Masters in High school Sciences teaching (Catholic University of Murcia, Spain, 2017)
+* This masters helped me understand how learning works and what the best techniques for teaching and explaining are, which I found very interesting.
+* I did a placement after my Masters and realised that, as much as I loved learning and teaching, working with teenagers wasn’t for me and decided to continue with my career as a veterinary surgeon.
+
 #### Degree in Veterinary Medicine (University of Murcia, Spain. 2009 –  2015)
 * Mean qualifications 8.3/10, nine of the core subjects passed with distinctions.
 * Intensification in Medicine and surgery.
 * Intern student in the Anaesthesia department.
 
-#### Masters in High school Sciences teaching (Catholic University of Murcia, Spain, 2017)
-* This masters helped me understand how learning works and what the best techniques for teaching and explaining are, which I found very interesting.
-* I did a placement after my Masters and realised that, as much as I loved learning and teaching, working with teenagers wasn’t for me and decided to continue with my career as a veterinary surgeon.
 
 ## Other qualifications
 
 * GPCert in Small Animal Surgery (December 2019 – September 2022)
    GP level specialisation in surgery, which helped me become more confident in my procedures and my communication with clients.
 
-* Advanced level of spoken and written English (Cambridge Advanced Exam – 2015) and 
-Advanced level of spoken and written English (Spanish School of languages – 2016)
+* Advanced level of spoken and written English (Spanish School of languages – 2016)
+
+* Advanced level of spoken and written English (Cambridge Advanced Exam – 2015)
 
 * Basic German and French (level A2)
 
